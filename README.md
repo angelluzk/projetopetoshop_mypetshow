@@ -96,9 +96,11 @@
 
 ## 📸 Prints do Sistema
 
-### 🖼️ Tela de cadastro de clientes
+### 🖼️ Tela Inicial
 
 ![Tela Inicial](src/images/print_tela_inicial.png)
+
+### 🖼️ Tela de cadastro de clientes
 
 ![Cadastro de Clientes](src/images/print_cadastro_clientes.png)
 
