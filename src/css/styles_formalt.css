@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: linear-gradient(180deg, #ff9737 0%,#ff9737 50%,#b14100 53%, #b14100 100%);
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    background-color: #f7b48d;
+    padding-top: 100px;
+}
+
+.titulo-pagina {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #834825;
+    font-size: 35px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+form {
+    background-color: #ffb18a;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+}
+
+.form-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.form-row label {
+    width: 150px;
+    margin-right: 10px;
+    color: #333;
+    font-weight: 500;
+    text-align: right;
+}
+
+.form-row input[type="text"],
+.form-row input[type="tel"],
+.form-row input[type="email"],
+.form-row input[type="date"] {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #975b39;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.radio-buttons {
+    display: flex;
+    align-items: center;
+}
+
+.radio-buttons input[type="radio"] {
+    margin-left: 10px;
+}
+
+.radio-buttons label {
+    margin-left: 5px;
+    color: #333;
+}
+
+button[type="submit"] {
+    background-color: #35a7dc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+    margin: 0 auto;
+}
+
+button[type="submit"]:hover {
+    background-color: #466fc9;
+}
