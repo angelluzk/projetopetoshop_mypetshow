@@ -1,5 +1,3 @@
-
-````markdown
 # 🐾 MyPetShow - Sistema de Cadastro e Agendamento para PetShop
 
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
@@ -36,7 +34,7 @@
 ## 🚀 Como executar o projeto
 
 1. Clone este repositório:
-   ```bash
+```bash
    git clone https://github.com/seu-usuario/projetopetoshop_mypetshow.git
 ````
 
@@ -44,7 +42,7 @@
 
 3. Execute o script SQL para criar o banco de dados e as tabelas:
 
-   ```sql
+```sql
    CREATE DATABASE IF NOT EXISTS angel_petshop;
    USE mypetshow_petshop;
 
@@ -84,16 +82,15 @@
      sexo ENUM('M','F','Outro') DEFAULT 'Outro',
      created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
    );
-   ```
+```
 
 4. Coloque os arquivos do projeto na pasta `htdocs` (caso use **XAMPP**).
 
 5. Acesse via navegador:
 
-   ```
+```
    http://localhost/projetopetoshop_mypetshow
-
-   ```
+```
 
 ---
 
