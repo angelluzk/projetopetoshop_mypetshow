@@ -126,6 +126,6 @@ Este projeto foi desenvolvido como um **projeto acadêmico** no **Curso Técnico
 
 ## 🤝 Contribuição
 
-Projeto desenvolvido por **\[Angelita Luz]** durante o **Curso Técnico em Informática**.
+Projeto desenvolvido por **Angelita Luz** durante o **Curso Técnico em Informática**.
 
 ---
