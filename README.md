@@ -26,6 +26,10 @@ Este projeto foi desenvolvido como **projeto acadêmico**, atividade **avaliativ
 - 👩‍💼 Cadastro de funcionários com informações profissionais.
 - 📅 Agendamento de serviços para pets.
 - 🗄️ Armazenamento e manipulação de dados via **MySQL**.
+- 🔄 Funcionalidades CRUD para clientes, funcionários e serviços:
+  * Listar registros cadastrados.
+  * Editar informações existentes.
+  * Deletar registros indesejados.
 - 🖥️ Interfaces simples e funcionais para interação com o sistema.
 
 ---
