@@ -1,4 +1,4 @@
-# 🐾 MyPetShow - Sistema de Cadastro e Agendamento para PetShop
+# 🐾 MyPetShow - Sistema de Cadastro e Agendamento de Serviços para PetShop
 
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 ![PHP](https://img.shields.io/badge/PHP-7.4+-8892BF?logo=php&logoColor=white)
@@ -6,8 +6,17 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Feito com ❤️](https://img.shields.io/badge/feito%20com-%E2%9D%A4-red)
+
+---
+
+## 📚 Finalidade
+
+Este projeto foi desenvolvido como **projeto acadêmico**, atividade **avaliativa**, no **Curso Técnico em Informática**, com o objetivo de praticar:
+
+* Desenvolvimento Full Stack (front-end e back-end).
+* Integração com banco de dados relacional.
+* Estruturação e manipulação de formulários.
 
 ---
 
@@ -111,16 +120,6 @@
 ### 🖼️ Tela de cadastro de funcionários
 
 ![Cadastro de Funcionários](src/images/print_cadastro_funcionarios.png)
-
----
-
-## 📚 Finalidade
-
-Este projeto foi desenvolvido como um **projeto acadêmico** no **Curso Técnico em Informática**, com o objetivo de praticar:
-
-* Desenvolvimento Full Stack (front-end e back-end).
-* Integração com banco de dados relacional.
-* Estruturação e manipulação de formulários.
 
 ---
 
