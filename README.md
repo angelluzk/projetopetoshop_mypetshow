@@ -43,7 +43,7 @@
 3. Execute o script SQL para criar o banco de dados e as tabelas:
 
 ```sql
-   CREATE DATABASE IF NOT EXISTS angel_petshop;
+   CREATE DATABASE IF NOT EXISTS mypetshow_petshop;
    USE mypetshow_petshop;
 
    CREATE TABLE IF NOT EXISTS clientes (
